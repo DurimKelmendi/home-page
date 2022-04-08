@@ -31,6 +31,11 @@ const CARDS = [
     link: "https://www.twitch.tv/",
   },
   {
+    name: "Netflix",
+    icon: "ri-netflix-fill",
+    link: "https://www.netflix.com/",
+  },
+  {
     name: "Plex",
     icon: "ri-play-mini-fill",
     link: "https://www.plex.tv/",
