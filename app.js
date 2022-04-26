@@ -26,6 +26,11 @@ const CARDS = [
     link: "https://www.reddit.com/",
   },
   {
+    name: "Instagram",
+    icon: "ri-instagram-fill",
+    link: "https://instagram.com/",
+  },
+  {
     name: "Twitch",
     icon: "ri-twitch-fill",
     link: "https://www.twitch.tv/",
