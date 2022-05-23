@@ -19,7 +19,7 @@ body {
   color: var(--text-light);
   font-family: 'Inter', sans-serif;
 
-  padding: 2rem 4rem;
+  padding: 1rem 2rem;
 
   background-color: var(--background);
   box-sizing: border-box;
