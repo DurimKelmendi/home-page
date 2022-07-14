@@ -15,6 +15,13 @@
   box-sizing: inherit;
 }
 
+::selection {
+  background: #9146FF; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #9146FF; /* Gecko Browsers */
+}
+
 body {
   color: var(--text-light);
   font-family: 'Inter', sans-serif;
