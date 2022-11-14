@@ -42,7 +42,7 @@ const CARDS = [
   },
   {
     name: "OSRS Wiki",
-    icon: "osrswiki.svg",
+    icon: "shield-star",
     link: "https://www.osrs.wiki/",
   },
   {
