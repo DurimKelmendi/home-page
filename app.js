@@ -41,6 +41,11 @@ const CARDS = [
     link: "https://www.netflix.com/",
   },
   {
+    name: "OSRS Wiki",
+    icon: "osrswiki.svg",
+    link: "https://www.osrs.wiki/",
+  },
+  {
     name: "Plex",
     icon: "ri-play-mini-fill",
     link: "https://www.plex.tv/",
