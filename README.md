@@ -1,6 +1,6 @@
 ### Root is a start-page aimed to simplicity and elegance
 
-How to add custom URL as Firefox home page: [Reddit](https://www.reddit.com/r/firefox/comments/m9xs7m/how_do_i_set_custom_new_tab/).
+How to add custom URL as Firefox home page: [Reddit](https://www.reddit.com/r/startpages/comments/g3qndt/psa_how_to_set_a_custom_new_tab_page_in_firefox/).
 
 ## Customizing
 
